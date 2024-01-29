@@ -4,22 +4,102 @@
   ],
   "Question_1": [
     {
-      "Answer_Two": "Rohan",
-      "Answer_Three": "Someone",
-      "Answer_Four": "IDK",
-      "Answer_One": "-->",
-      "Correct": "2",
-      "Title" : "Who Created This Program?"
+      "Answer_Two": "Tenzing Norgay",
+      "Answer_Three": "Edmund Hillary",
+      "Answer_Four": "Reinhold Messner",
+      "Answer_One": "Junko Tabei",
+      "Correct": "3",
+      "Title" : "Who was the first person to reach the summit of Mount Everest?"
     }
   ],
   "Question_2": [
     {
-      "Answer_Two": "False",
-      "Answer_Three": "",
-      "Answer_Four": "",
-      "Answer_One": "True",
+      "Answer_Two": "Mont Blanc",
+      "Answer_Three": "Matterhorn",
+      "Answer_Four": "K2",
+      "Answer_One": "Mount McKinley",
+      "Correct": "3",
+      "Title" : "Which mountain is considered the birthplace of modern alpinism?"
+    }
+  ],
+ "Question_3": [
+    {
+      "Answer_Two": "1935",
+      "Answer_Three": "1947",
+      "Answer_Four": "1957",
+      "Answer_One": "1965",
+      "Correct": "2",
+      "Title" : "In which year was the first successful ascent of the Eiger's north face completed?"
+    }
+  ],
+ "Question_4": [
+    {
+      "Answer_Two": "Reinhold Messner",
+      "Answer_Three": "Jerzy Kukuczka",
+      "Answer_Four": "Nirmal Purja",
+      "Answer_One": "Ed Viesturs",
+      "Correct": "2",
+      "Title" : "Who was the first person to climb all 14 peaks above 8,000 meters?"
+    }
+  ],
+ "Question_5": [
+    {
+      "Answer_Two": "Tommy Caldwell",
+      "Answer_Three": "Alex Honnold",
+      "Answer_Four": "Dean Potter",
+      "Answer_One": "Lynn Hill",
       "Correct": "1",
-      "Title" : "Boolean Question"
+      "Title" : "Which climber completed the first solo ascent of El Capitan in Yosemite National Park?"
+    }
+  ],
+ "Question_6": [
+    {
+      "Answer_Two": "Himalayas",
+      "Answer_Three": "Andes",
+      "Answer_Four": "Alps",
+      "Answer_One": "Rocky Mountains",
+      "Correct": "3",
+      "Title" : "Which mountain range is home to the famous Seven Summits challenge?"
+    }
+  ],
+ "Question_7": [
+    {
+      "Answer_Four": "Peter Habeler and Reinhold Messner",
+      "Answer_Three": "Chris Bonington and Doug Scott",
+      "Answer_Two": "Sir Edmund Hillary and Tenzing Norgay",
+      "Answer_One": "Ueli Steck and Simone Moro",
+      "Correct": "4",
+      "Title" : "Who led the first successful expedition to reach the summit of Mount Everest without supplemental oxygen?"
+    }
+  ],
+ "Question_8": [
+    {
+      "Answer_Two": "Kangchenjunga",
+      "Answer_Three": "Makalu",
+      "Answer_Four": "Cho Oyu",
+      "Answer_One": "Annapurna",
+      "Correct": "4",
+      "Title" : "Which mountain served as the training ground for Sir Edmund Hillary and Tenzing Norgay before their successful Everest expedition?"
+    }
+  ],
+ "Question_9": [
+    {
+      "Answer_Two": "Junko Tabei",
+      "Answer_Three": "Pasang Lhamu Sherpa",
+      "Answer_Four": "Gerlinde Kaltenbrunner",
+      "Answer_One": "Wanda Rutkiewicz",
+      "Correct": "2",
+      "Title" : "Who was the first woman to reach the summit of Mount Everest?"
+    }
+  ],
+ "Question_10": [
+    {
+      "Answer_Two": "Mount Meru",
+      "Answer_Three": "K2",
+      "Answer_Four": "Annapurna",
+      "Answer_One": "Mount Everest",
+      "Correct": "3",
+      "Title" : "Which mountain is considered the most dangerous to ascend?"
     }
   ]
 }
