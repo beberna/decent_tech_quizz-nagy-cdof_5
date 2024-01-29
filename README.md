@@ -2,9 +2,9 @@
 
 *Multiple-choice question quizz maker, with an alpinism bank of 10 questions, for a school project*
 
-#Based on quizz creator by Rohan Bansal : https://github.com/rohan-bansal/quiz-creator #
+*Based on quizz creator by Rohan Bansal : https://github.com/rohan-bansal/quiz-creator*
 
-**Below is Rohan Bansal's  original README file : **
+**Below is Rohan Bansal's  original README file :**
 
 # Quiz-Creator
 
