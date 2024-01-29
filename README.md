@@ -4,6 +4,13 @@
 
 *Based on quizz creator by Rohan Bansal : https://github.com/rohan-bansal/quiz-creator*
 
+**Running the project** : 
+
+*Launch QuizCreator.py*
+*Accept to install the missing num2words package*
+*Either create your questions or import the included Alpinism_qs.json file*
+*Play the quiz*
+
 **Below is Rohan Bansal's  original README file :**
 
 # Quiz-Creator
